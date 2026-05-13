@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there ✌🏽
 
-<!--
-**Valencia230202/Valencia230202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I thrive at the intersection of digital transformation and operations. With a background in marketing and a deep focus on the tech-startup sector, I specialize in scaling autonomous technologies, optimizing complex logistics, and launching innovative EdTech solutions.
 
-Here are some ideas to get you started:
+I'd love to join new teams and projects to learn and develop high-impact solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Active learner in different topics, "everything helps us to develop new abilities."
+
+More about me:
+
+- 🔭 I’m currently working on developing a sleep assistant.
+- 🌱 I’m currently learning how to automate workflows.
+- 👯 I’m looking to collaborate on creative projects
+- 💬 Ask me about the importance of learning surf 🏄‍♂️
+- 📫 How to reach me inta: @evalencia23_
+- ⚡ Fun fact: I eat spicy food every day 
