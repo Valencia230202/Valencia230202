@@ -1,10 +1,10 @@
 ## Hi there ✌🏽
 
-I thrive at the intersection of digital transformation and operations. With a background in marketing and a deep focus on the tech-startup sector, I specialize in scaling autonomous technologies, optimizing complex logistics, and launching innovative EdTech solutions.
+I love learning new things and thrive at the intersection of digital transformation and operations. With a background in marketing and a deep focus on the tech-startup sector, I specialize in scaling autonomous technologies, optimizing complex logistics, and launching innovative EdTech solutions.
 
 I'd love to join new teams and projects to learn and develop high-impact solutions.
 
-Active learner in different topics, "everything helps us to develop new abilities."
+ "Everything helps us to develop new abilities."
 
 More about me:
 
